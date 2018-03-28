@@ -1,13 +1,15 @@
 # Orange-Crush-3026-2018
 2018 FRC Comp Bot Code
 
-FRC Team 3026 Orange Crush Robotics LabVIEW code for the 2017 competition season
+FRC Team 3026 Orange Crush Robotics LabVIEW code for the 2018 competition season
 
 Functions Include  <br />
   Command and Control LabVIEW  <br />
   Autonomus  <br />
     &nbsp;&nbsp;&nbsp;Motion Profiling Drive <br />
     &nbsp;&nbsp;&nbsp;SRX processed points timing for manipulators in auto <br />
+    &nbsp;&nbsp;&nbsp;Capability of loading new paths on the fly and not changing code <br />
+    &nbsp;&nbsp;&nbsp;Can change paths match by match to acomadate alliance <br />
   Drive Train <br />
     &nbsp;&nbsp;&nbsp;Field Centric Mecanum 4ft/sec <br />
     &nbsp;&nbsp;&nbsp;Robot Centric Mecanum 4ft/sec <br />
