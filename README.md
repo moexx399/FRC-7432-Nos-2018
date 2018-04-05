@@ -33,7 +33,7 @@ FRC Team 3026 Orange Crush Robotics LabVIEW code for the 2018 competition season
 - Shooting feature <br />
 - Constant speed control <br />
 ### Claw Rotation
-- Manual toration of claw <br />
+- Manual rotation of claw <br />
 - Preset position control (PID on potentiometer) <br />
 - Auto rotate Claw to stay within 16 inches <br />
 ### Climber
