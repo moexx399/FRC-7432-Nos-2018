@@ -19,8 +19,12 @@ FRC Team 3026 Orange Crush Robotics LabVIEW code for the 2018 competition season
 -  Robot Centric 6 Wheel Tank 14ft/sec <br />
 -  Turn to angle (NavX) <br />
 -  Strafe Correction (NavX) <br />
+-  Auto Balancing <br />
 -  Auto shifting 2 speed gearboxes <br />
-- Drive to distance <br />
+-  Drive to distance <br />
+-  Cube Centric<br />
+-  Switch Centric<br />
+-  Pursuit Mode (Tracking other robots to play defence)<br />
 ### Arm Actuator <br /> 
 - Manual Movement <br />
 - Positional Movement (PID on potentiometer) <br />
@@ -39,3 +43,13 @@ FRC Team 3026 Orange Crush Robotics LabVIEW code for the 2018 competition season
 ### Climber
 - Adjustable speed climber <br />
 - Amp limits to prevent brownouts and tripping breakers <br />
+### Arduino LED Lights
+- Led Lights indicating drive mode <br />
+- Driven by DIO conveted from binary used in switch statement <br />
+### Vision Tracking
+- TCP/IP connection to UP^2 Development board <br />
+- API calls communicating to RoboRealm vision tracking software <br />
+- Displays Eagle Eye view to dashboard (newer car overhead display) <br />
+- Vision Tracking cubes <br />
+- Vision Tracking switch <br />
+- Vision Tracking opposing robots <br />
