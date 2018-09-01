@@ -17,6 +17,7 @@
 	<Property Name="varPersistentID:{1BFE321C-AA78-4EF8-97B4-7EA688BC4C5E}" Type="Ref">/My Computer/Shared Variables.lvlib/NavX/Roll</Property>
 	<Property Name="varPersistentID:{1E2614F0-A605-4E25-95A3-E1629BA36D27}" Type="Ref">/Target/Shared Variables.lvlib/Vision/Pot Angle</Property>
 	<Property Name="varPersistentID:{20C1198E-4A43-42FC-89D6-199A56719880}" Type="Ref">/Target/Shared Variables.lvlib/NavX/LinearAcceleration X</Property>
+	<Property Name="varPersistentID:{212920D5-E3A6-4BAF-BC01-EBEF9ADF3B6B}" Type="Ref">/Target/Shared Variables.lvlib/Claw Angle</Property>
 	<Property Name="varPersistentID:{240D7102-623F-44B1-8AF7-FC9CF0D1DA07}" Type="Ref">/Target/Shared Variables.lvlib/Drive Train/Solonoid References</Property>
 	<Property Name="varPersistentID:{24DF687B-C3BB-4DC0-87ED-0BFE844075D7}" Type="Ref">/My Computer/Shared Variables.lvlib/Drive Train/Solonoid References</Property>
 	<Property Name="varPersistentID:{279A5518-26DF-4CD4-B06C-B735E68E541C}" Type="Ref">/Target/Shared Variables.lvlib/Joystick Connected?</Property>
@@ -78,6 +79,7 @@
 	<Property Name="varPersistentID:{90A6A96D-D7FE-4473-85DC-CE9CCE78F947}" Type="Ref">/Target/Shared Variables.lvlib/Drive Train/Front Right Motor Direction</Property>
 	<Property Name="varPersistentID:{90C276F0-A9C6-4F86-BF58-E5AD818DB2CA}" Type="Ref">/Target/Shared Variables.lvlib/NavX/Velocity X</Property>
 	<Property Name="varPersistentID:{999B8D0A-DE4D-47DC-BC66-9F740D4E1018}" Type="Ref">/Target/Shared Variables.lvlib/Drive Train/Strafe Correction T F</Property>
+	<Property Name="varPersistentID:{9E3AE2F4-6781-413A-A116-FBA1D93DD2AF}" Type="Ref">/My Computer/Shared Variables.lvlib/Claw Angle</Property>
 	<Property Name="varPersistentID:{9FD7660C-49F9-4AD3-A01C-EBDF17F1AD2C}" Type="Ref">/My Computer/Shared Variables.lvlib/Joystick Connected?</Property>
 	<Property Name="varPersistentID:{A250326F-A70C-4F09-B5A5-293D57FDF474}" Type="Ref">/My Computer/Shared Variables.lvlib/Vision/Go to distance</Property>
 	<Property Name="varPersistentID:{A3550313-4C3C-4767-A219-308457CBBF1C}" Type="Ref">/Target/Shared Variables.lvlib/Motion Profile Time</Property>
@@ -898,7 +900,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D2136F65-FD06-4AC9-A317-10E44B9EF7A4}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">265</Property>
+				<Property Name="Bld_version.build" Type="Int">277</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
