@@ -1,0 +1,106 @@
+﻿  Eagle_Eye.cpp
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\wpiutil\src\main\native\include\wpi\hashing.h(193): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\wpiutil\src\main\native\include\wpi\mathextras.h(369): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\wpiutil\src\main\native\include\wpi\mathextras.h(514): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\wpiutil\src\main\native\include\wpi\mathextras.h(520): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\wpiutil\src\main\native\include\wpi\mathextras.h(527): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\wpiutil\src\main\native\include\wpi\mathextras.h(533): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(51): warning C4996: 'ITable': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(30): note: see declaration of 'ITable'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(377): warning C4996: 'ITable::AddSubTableListener': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(440): note: see declaration of 'ITable::AddSubTableListener'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(374): warning C4996: 'ITable::AddSubTableListener': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(432): note: see declaration of 'ITable::AddSubTableListener'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(380): warning C4996: 'ITable::RemoveTableListener': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(448): note: see declaration of 'ITable::RemoveTableListener'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(366): warning C4996: 'ITable::AddTableListener': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(413): note: see declaration of 'ITable::AddTableListener'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(358): warning C4996: 'ITable::AddTableListener': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(391): note: see declaration of 'ITable::AddTableListener'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(353): warning C4996: 'ITable::AddTableListener': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(382): note: see declaration of 'ITable::AddTableListener'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(370): warning C4996: 'ITable::AddTableListenerEx': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(425): note: see declaration of 'ITable::AddTableListenerEx'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(362): warning C4996: 'ITable::AddTableListenerEx': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(402): note: see declaration of 'ITable::AddTableListenerEx'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(389): warning C4996: 'ITable::GetSubTable': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(56): note: see declaration of 'ITable::GetSubTable'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(397): warning C4996: 'ITable::ContainsKey': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(38): note: see declaration of 'ITable::ContainsKey'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(407): warning C4996: 'ITable::ContainsSubTable': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(48): note: see declaration of 'ITable::ContainsSubTable'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(415): warning C4996: 'ITable::GetKeys': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(63): note: see declaration of 'ITable::GetKeys'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(422): warning C4996: 'ITable::GetSubTables': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(68): note: see declaration of 'ITable::GetSubTables'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(429): warning C4996: 'ITable::SetPersistent': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(75): note: see declaration of 'ITable::SetPersistent'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(437): warning C4996: 'ITable::ClearPersistent': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(83): note: see declaration of 'ITable::ClearPersistent'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(445): warning C4996: 'ITable::IsPersistent': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(91): note: see declaration of 'ITable::IsPersistent'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(454): warning C4996: 'ITable::SetFlags': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(100): note: see declaration of 'ITable::SetFlags'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(463): warning C4996: 'ITable::ClearFlags': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(109): note: see declaration of 'ITable::ClearFlags'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(471): warning C4996: 'ITable::GetFlags': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(117): note: see declaration of 'ITable::GetFlags'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(478): warning C4996: 'ITable::Delete': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(124): note: see declaration of 'ITable::Delete'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(487): warning C4996: 'ITable::PutNumber': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(161): note: see declaration of 'ITable::PutNumber'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(496): warning C4996: 'ITable::SetDefaultNumber': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(169): note: see declaration of 'ITable::SetDefaultNumber'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(506): warning C4996: 'ITable::GetNumber': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(179): note: see declaration of 'ITable::GetNumber'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(515): warning C4996: 'ITable::PutString': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(188): note: see declaration of 'ITable::PutString'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(524): warning C4996: 'ITable::SetDefaultString': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(196): note: see declaration of 'ITable::SetDefaultString'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(535): warning C4996: 'ITable::GetString': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(211): note: see declaration of 'ITable::GetString'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(544): warning C4996: 'ITable::PutBoolean': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(221): note: see declaration of 'ITable::PutBoolean'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(553): warning C4996: 'ITable::SetDefaultBoolean': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(229): note: see declaration of 'ITable::SetDefaultBoolean'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(564): warning C4996: 'ITable::GetBoolean': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(240): note: see declaration of 'ITable::GetBoolean'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(577): warning C4996: 'ITable::PutBooleanArray': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(252): note: see declaration of 'ITable::PutBooleanArray'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(586): warning C4996: 'ITable::SetDefaultBooleanArray': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(261): note: see declaration of 'ITable::SetDefaultBooleanArray'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(605): warning C4996: 'ITable::GetBooleanArray': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(279): note: see declaration of 'ITable::GetBooleanArray'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(615): warning C4996: 'ITable::PutNumberArray': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(288): note: see declaration of 'ITable::PutNumberArray'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(624): warning C4996: 'ITable::SetDefaultNumberArray': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(297): note: see declaration of 'ITable::SetDefaultNumberArray'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(639): warning C4996: 'ITable::GetNumberArray': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(311): note: see declaration of 'ITable::GetNumberArray'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(649): warning C4996: 'ITable::PutStringArray': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(320): note: see declaration of 'ITable::PutStringArray'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(658): warning C4996: 'ITable::SetDefaultStringArray': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(329): note: see declaration of 'ITable::SetDefaultStringArray'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(673): warning C4996: 'ITable::GetStringArray': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(343): note: see declaration of 'ITable::GetStringArray'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(683): warning C4996: 'ITable::PutRaw': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(352): note: see declaration of 'ITable::PutRaw'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(692): warning C4996: 'ITable::SetDefaultRaw': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(360): note: see declaration of 'ITable::SetDefaultRaw'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(706): warning C4996: 'ITable::GetRaw': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(374): note: see declaration of 'ITable::GetRaw'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(715): warning C4996: 'ITable::PutValue': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(151): note: see declaration of 'ITable::PutValue'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(724): warning C4996: 'ITable::SetDefaultValue': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(141): note: see declaration of 'ITable::SetDefaultValue'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(734): warning C4996: 'ITable::GetValue': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(133): note: see declaration of 'ITable::GetValue'
+c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(741): warning C4996: 'ITable::GetPath': Use NetworkTable directly
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\tables\itable.h(453): note: see declaration of 'ITable::GetPath'
+c:\users\pcibam\documents\visual studio 2015\projects\eagle_eye\eagle_eye.cpp(63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\pcibam\documents\visual studio 2015\projects\eagle_eye\eagle_eye.cpp(66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\pcibam\documents\visual studio 2015\projects\eagle_eye\eagle_eye.cpp(75): warning C4996: 'nt::NetworkTable::GetTable': use NetworkTableInstance::GetTable() or NetworkTableInstance::GetEntry() instead
+  c:\users\pcibam\downloads\allwpilib-master\allwpilib-master\ntcore\src\main\native\include\networktables\networktable.h(292): note: see declaration of 'nt::NetworkTable::GetTable'
+Eagle_Eye.obj : error LNK2019: unresolved external symbol "public: static class std::shared_ptr<class nt::NetworkTable> __cdecl nt::NetworkTable::GetTable(class wpi::StringRef)" (?GetTable@NetworkTable@nt@@SA?AV?$shared_ptr@VNetworkTable@nt@@@std@@VStringRef@wpi@@@Z) referenced in function main
+Eagle_Eye.obj : error LNK2019: unresolved external symbol "public: virtual bool __cdecl nt::NetworkTable::PutString(class wpi::StringRef,class wpi::StringRef)" (?PutString@NetworkTable@nt@@UEAA_NVStringRef@wpi@@0@Z) referenced in function main
+c:\users\pcibam\documents\visual studio 2015\Projects\Eagle_Eye\x64\Debug\Eagle_Eye.exe : fatal error LNK1120: 2 unresolved externals
