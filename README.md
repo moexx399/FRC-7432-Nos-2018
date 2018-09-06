@@ -1,7 +1,7 @@
-# Orange-Crush-3026-2018
+# Team Nos
 2018 FRC Comp Bot Code
 
-FRC Team 3026 Orange Crush Robotics LabVIEW code for the 2018 competition season
+FRC Team Nos LabVIEW code for the 2018 Off Season
 
 ## Functions
 ### Command and Control LabVIEW  <br />
