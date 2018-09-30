@@ -1,7 +1,7 @@
-# Team 7432 Nos
+# Team 7432 NOS
 2018 FRC Comp Bot Code
 
-FRC Team 7432 Nos LabVIEW code for the 2018 Off Season
+FRC Team 7432 NOS LabVIEW code for the 2018 Off Season
 
 ## Functions
 ### Command and Control LabVIEW  <br />
